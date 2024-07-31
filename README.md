@@ -2,7 +2,7 @@
 
 Projet  Reservia 
 
-Lien :  https://mojtaba-kazmi.github.io/KAZMISaidMojtaba_2_25072021/
+Lien :  https://mojtaba-kazmi.github.io/Reservia/
 
 Réalisé en HTML & CSS, Reservia est responsive, et validé par le validateur W3C.
 
